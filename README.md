@@ -1,70 +1,42 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=170&section=header&text=Dennys%20Vela&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Software%20Full-Stack&descAlignY=60&descSize=18" />
+  <img src="assets/cabecera.svg" width="100%" alt="Dennys Vela — Desarrollador de Software Full-Stack. React + Node.js + PostgreSQL, Kotlin + Spring Boot. Quito, Ecuador." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=EF4444&center=true&vCenter=true&width=560&lines=React+%2B+Node.js+%2B+PostgreSQL;Proyectos+en+producci%C3%B3n+para+clientes+reales;Kotlin+%2B+Spring+Boot;Quito%2C+Ecuador" />
+  <a href="mailto:dennysvela@hotmail.com"><img src="assets/boton-correo.svg" height="52" alt="Escríbeme por correo" /></a>
+  &nbsp;
+  <a href="https://github.com/SrLycan?tab=repositories"><img src="assets/boton-repos.svg" height="52" alt="Ver repositorios" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="assets/sobre-mi.svg" width="100%" alt="Sobre mí: formado en Tecnología Superior en Desarrollo de Software (PUCE). Pasantía en MINTEL con un dashboard de datos abiertos en React y la API de CKAN. Construyo aplicaciones completas: autenticación, pruebas, CI y despliegue. Actualmente puliendo SSWAP, mi proyecto de titulación." />
 </p>
 
 <p align="center">
-  <a href="mailto:dennysvela@hotmail.com"><img src="https://img.shields.io/badge/Correo-DC2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SrLycan?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-0d1117?style=for-the-badge&logo=github&logoColor=EF4444" /></a>
-</p>
-
-## 🔴 Sobre mí
-
-- Formado en **Tecnología Superior en Desarrollo de Software** (PUCE)
-- Pasantía en **MINTEL**: dashboard de datos abiertos con React y la API de CKAN
-- Construyo aplicaciones completas: autenticación, pruebas, CI y despliegue
-- Actualmente puliendo **SSWAP**, mi proyecto de titulación
-
-## 🔴 Tecnologías
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=EF4444)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=EF4444)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=EF4444)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=EF4444)
-![Ionic](https://img.shields.io/badge/Ionic-0d1117?style=for-the-badge&logo=ionic&logoColor=EF4444)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=EF4444)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=EF4444)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=EF4444)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=EF4444)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=EF4444)
-
-**Bases de datos**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=EF4444)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=EF4444)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=EF4444)
-
-**DevOps y herramientas**
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=EF4444)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=EF4444)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=EF4444)
-![Jest](https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&logo=jest&logoColor=EF4444)
-![AWS](https://img.shields.io/badge/AWS_EC2_·_Cognito-0d1117?style=for-the-badge)
-
-## 🔴 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **[SSWAP](https://github.com/SrLycan/MecanicaAutomotriz-Titulacion)** | Gestión para taller automotriz: citas, órdenes, tienda y chatbot con IA (Gemini). JWT con 4 roles, pruebas y CI. | React · Express · PostgreSQL · MongoDB |
-| **[TattoolShop](https://github.com/SrLycan/TattoolShop)** | E-commerce para estudio de tatuajes con 3 sucursales: carrito, pagos con PayPhone y panel de administración. | React · Express · Supabase |
-| **[API REST Estudiantes](https://github.com/SrLycan/API-REST-Arq-Empresarial)** | API por capas (controller, service, repository). | Kotlin · Spring Boot |
-
-## 🔴 Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SrLycan&show_icons=true&hide_rank=true&hide=stars,issues&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&custom_title=Actividad+en+GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLycan&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=EF4444&text_color=E5E7EB&custom_title=Lenguajes+m%C3%A1s+usados" />
+  <img src="assets/tecnologias.svg" width="100%" alt="Tecnologías. Frontend: React, Vite, JavaScript, TypeScript, Ionic. Backend: Node.js, Express, Kotlin, Spring Boot, Python. Bases de datos: PostgreSQL, MongoDB, Supabase. DevOps: Docker, GitHub Actions, Linux, Jest, AWS EC2 y Cognito." />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=100&section=footer" />
+  <img src="assets/titulo-proyectos.svg" width="100%" alt="Proyectos destacados" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SrLycan/MecanicaAutomotriz-Titulacion"><img src="assets/proyecto-sswap.svg" width="100%" alt="SSWAP: gestión para taller automotriz con citas, órdenes, tienda y chatbot con IA (Gemini). JWT con 4 roles, pruebas y CI. React, Express, PostgreSQL, MongoDB." /></a>
+  <a href="https://github.com/SrLycan/TattoolShop"><img src="assets/proyecto-tattoolshop.svg" width="100%" alt="TattoolShop: e-commerce para estudio de tatuajes con 3 sucursales, carrito, pagos con PayPhone y panel de administración. React, Express, Supabase." /></a>
+  <a href="https://github.com/SrLycan/API-REST-Arq-Empresarial"><img src="assets/proyecto-api-estudiantes.svg" width="100%" alt="API REST Estudiantes: API por capas (controller, service, repository). Kotlin, Spring Boot." /></a>
+</p>
+
+<p align="center">
+  <img src="assets/titulo-actividad.svg" width="100%" alt="Actividad en GitHub" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SrLycan&show_icons=true&hide_rank=true&hide=stars,issues&include_all_commits=true&bg_color=0b1118&border_color=1e2a36&border_radius=22&title_color=3db4ef&icon_color=3db4ef&text_color=b4c0cc&custom_title=Actividad+en+GitHub" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLycan&layout=compact&langs_count=6&bg_color=0b1118&border_color=1e2a36&border_radius=22&title_color=3db4ef&text_color=b4c0cc&custom_title=Lenguajes+m%C3%A1s+usados" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <a href="mailto:dennysvela@hotmail.com"><img src="assets/cta.svg" width="100%" alt="¿Construimos algo juntos? Escríbeme a dennysvela@hotmail.com" /></a>
 </p>

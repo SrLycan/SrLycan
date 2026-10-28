@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Proyectos destacados"><title>Proyectos destacados</title><style>@font-face{font-family:'Outfit';font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAVkABAAAAAACigAAAUHAAEZmgAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgzgcKgZgP1NUQVQqAFwRCAqGNIUnATYCJAMwCxoABCAFhAgHIAwHG2sIKJ4DbnOMQ3VETd2J8k8jiiek73w8PNz7O/e+/Re1lkEWcGHbA/9EAUZeNianXf/5vL7OfUkpaaPwxZI+6JSQLjWELT0AliDXPcuZoXOtCOcwbqCJ7XC+xqqvzvyHBbD6e9W/lGAHKU00FPGI/P/T6wUDVqplQgUwggF6sdKtdA5nPFpBQsGAcBbcTZHLes7+kgALAIkhCkRFQAjM5DFip82dg1hwP5dNYgEeqD8CcRdIJ6EGAQKPUWMEfyIb8GCmgl29Tv2yLuMFvOVDDEMYaIkYRl2rxJq46osZdvKT6L9PjSqIq6cW0WOgqY4ts4vEHnWoOrHaBjjx7O0UKDHQWIM+qFIuZXtunUdJQVmPHSb+ztzmrcQ6aLwm+2urIw5lvZpaxwrPOYoH1/ZCSQn1qIIWEQjUmVoFMAXr1iWBmti5QC0kgGaAViQaaD5an2CCz2oISgENDswvB9DhESLgMIQwhEBLgcBMgaLbk6xyx3212chGoYBcF1Rw1ktcwBh6oHVw/52fiTdojTV//n/IXlXwgADiNV+H4IQGIWoENhA4wB5C4SwRIBEQAxsFkKABG7h+2/FawYoao6RVp0mvQWMFVE2DHv13rl82i0EnR+vXUv0t9C8YO9M3wV/iHAAtj0uE4TEMh4ICjK1+FR9nli1Z4fDkKbX4ikFiTIwI0+LkCM3H3PrzWEb76oPFE9WuwfufC8crH36KvZ999Fl5pl45pERFsjNf0L7GJAhk8rEMez/NE+YpRF509ALNR7BxTHfzwPAYvo/Hd0hkgqyy9NO0T0mNy4sg8Iv1nrJ0LAlLHB8JzB3/vH/k0c+gLk/7zNTnn78/nV1YnsHHPheOZ7D31aSj7z3LK+Jpo7QQoUtxTJgQ/aOcyJateU1e/dq5Zq3x21rVfnJ7Gqc0XQeskmQ+0NmZWV2a22/rHtxjXTgx8cGAwV7dq31t47DZsnHotV5dtWvQ8EbtQOyz4Na2pxsDdnuopckRLAxueG7bC90HTdK0dU9np3Xv3LSS37Xs9aMW1BoujW89tPVgWVbKzq3euncrzgpdB22SZDvY3rOfcwesXd1rgI2zQTr97kafyx5pMW8ceq1PZ6r3O+2RZot25NF+HR7w8g2t40OD/iOH9ob8ZEPU4pEaGzM8UcMyfloW9CA/esMolRcHjY2GPd4YNNsn3F77eMjYtCgfTvqYV+4sWDiMpdPQVodmbOzPvjKX5a98re1B84rm9Y8Ymq21nrFYZWNrxtIuzJ9qNxZXDujXm+41r4QVHje026RjMv79mEQ0bWvbBt1q4eOgNDaeupYLSx5PLxg9NgpAgNg9/wpn+GFmofuhGuX+BF6ef/sPwufwV2JJPcxPpkCPAQI+pOeEpBZ3EeLlFvkAasl3LMvHoPz8R2uOo7UP5WVY4fZ+TjqwPHNYkXegJd4GARZK8YBA0yZpHGo1gEcA9aTIXT2zwId6jtv3rXxLvYIz1uiUCmKwjAjzYjteRoVFcRhqINtkm7SIkLAsLaMqRtW0BoUFaPXIyQqKtBrfK00WFeCTpVVnUphca56hVSQ8LmuTDKdKlUIi7W7PkVTwkSVUjt0tQtZvL9dMlpSVUVzvWB1fRPIXBgQkRNSTxfn1CwjJiZuTVq1CtSpVXILS5oS4RnSblssxLO7KH1lLu5Z5QtAvt38fGROqVHCoYGQzNQtGXCfftEWcE9sqIaPCJ/qfHzsFAAAA) format('woff2');}
+@font-face{font-family:'Sora';font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAWUABAAAAAACpQAAAU6AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGiIbgiocKgZgP1NUQVQqAGYRCAqIfIc7ATYCJAM8CyAABCAFgxIHIAwHG5cIUVRRPlL8SLBt1ayTYkIT4CrSWA5YGj96zIf/Tvtz751opnCyLqaB6yR1UlATFUvqa/dBTPusP5EH+9vb+pdmISWchGVB4DMs0IwLrPofgB32H/eq/pdsjCW2tkGAI7LGy9gb1+rYxKVo59BqzytQ0YLpVuuWblUJB3mzSsCXgTcHAYQBAIBiCCWCJyDCRSAIgCdKR6eymhZEbIOLJhCBA+AHMrRKCyaghJWDQ2UJJerQPxu4gVchkIOB///M/z97J8V/AyCc/F8a//9zWDLISuBtBNWV5GTHQBylDqgo9KsMQVskeR2gKLZRK0CAoUtdS0/XuMH9XDbSRyEDWrQDQDU6DpmRHkWAowTo/375DpxDosXdy98nwN1WQO4BHekHgEQM8TBZQNwwMBM9fP5FyujmDtLTRwEAFMDWAGNX5zQBIXdRcolqSALmWnwQPVd6mN+E+e/k7jnrtOPbrXMAFcmmV0nnoTkAcA2z18cB2QHyWJq2aSIYGXZT2q8hjROnR+vVHBemTojKr400hnNqQSZwPAnHYE0Cm5D1U88VdoZCrfyZt/kdr76LdaHXhJ2P3J0hvAtzNX0FzINenm3b+cYzVejply3nGawDwiK8Zv3k656tb1TEuaogEyjfgGAF7mPr3+Z3vAm6tc4uIqCtHu+sTzTZx7DuUcluMJgXrxAC1pVHp0jU6CDzyHbi98HgyY7eHZiiaSsr+PhulEibcFzWv/MVsv7hsuzJSSfaSlfdc+JxfseDWPdQVlYohHWn1EWYQNeNfmxweIk1cK1vTYF3CGHEuj8u3/TBpQ/i9qXvQ0FMud9aWp80kh3rSPGW1vstJVXzHR6JFZ/OTLbry6eV2s3qsjJT4vPXjKeop9S70AFjtKvPUFolSrnq3GTJXdNrdLn7HVkTtOHIsvMfrP0ygda6xocdms2pT9ZbUs3dn4r671LKbPaU0l95YsqCtrIGcSQrLkccKa33Wz0dy+oK11Rnf929yZk2o3TEYDw8qyIrbUbFA3bz/GMH75e2Bmyo/ODcZU2zYX6jq0DR3b9uleOc21JmsgTseRgWz4nf3V7y/ZLBm5Y7Yuodi+VOqngHleLaH1UtxrntOYWKgZFVa53n3OYcs8VvLURzTMVcc02tbsShduq9dbVzzaXlE+baWoPXqXboRmrYr1WxxTaVWG62JZV9bzH/mVhmM88p/13oheB1UpkdHHS4nb1Gd1UyDVxRKqnuu7xkyJUzQepjf1j7U0re/pkpBobdhl9v6pNmi4ZW98Xv0LvLyzxqaKIWb+xnbXuc/hzj2AzNqdaLQ6qhzjKXs9arcwfX99D2Pa5fbKmPaNTtly6O8HM7a3JyG8aNKJY3S3rrQPMXh7/TbdM2bt16b/G2xSBR/dKKVQXnysyxRlOr1X1OXPut0GycaM4qYAAAgAAofPZK5tUfmferkrHvAPiQ8y0FgG8V3ycUv4NuYASEHAUABL5XHrboMPAE5oAtUn5SW1rRlMPQ5RMrzOvdhcqow3QUyOtSb1zmfBgzZnobICcUuRn5CCCSCQMABDyksgBDmgrAGSAXEUpngFKviBi9OyJOjEmRzHTfCeVigqoQICziUO7tpR5zzbPcAgE+foskSmeXxilRCx8k2WZzLTBoa0C9cwVJhi2yii3O0a8FC1Hv6a5F5lnIxcbGJzA/tNgQq2FzjbNZ6DdmsQzP8sHbnrCIIbrNnQ+OGZHOyn6p5qpT36ZL5eq6La2ZT0+Mt5G2iYEIWxL9LfKRbidR4mdA0/+nStf7IPl/87jd) format('woff2');}
+
+.entra{animation:entra .9s cubic-bezier(.22,.8,.24,1) backwards}
+@keyframes entra{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+.luz1{animation:luz1 18s ease-in-out infinite alternate}
+.luz2{animation:luz2 22s ease-in-out infinite alternate}
+.luz3{animation:luz3 26s ease-in-out infinite alternate}
+@keyframes luz1{to{transform:translate(140px,40px)}}
+@keyframes luz2{to{transform:translate(-160px,-30px)}}
+@keyframes luz3{to{transform:translate(90px,-50px)}}
+.chispa{animation:chispa 4s ease-in-out infinite}
+@keyframes chispa{0%,100%{opacity:.15}50%{opacity:.9}}
+.raya{animation:raya 9s linear infinite}
+@keyframes raya{0%{transform:translateX(-400px);opacity:0}15%{opacity:.9}60%{opacity:.9}100%{transform:translateX(1300px);opacity:0}}
+.cruza{animation:cruza 7s cubic-bezier(.22,.8,.24,1) infinite}
+@keyframes cruza{0%,55%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.no-rm{display:none}}</style><defs>
+<linearGradient id="vidrio" x1="0" y1="0" x2="0.35" y2="1">
+  <stop offset="0" stop-color="#fff" stop-opacity=".10"/>
+  <stop offset="1" stop-color="#fff" stop-opacity=".025"/></linearGradient>
+<linearGradient id="vidrioFuerte" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#3db4ef" stop-opacity=".20"/>
+  <stop offset=".6" stop-color="#3db4ef" stop-opacity=".06"/>
+  <stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+<linearGradient id="reflejo" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#fff" stop-opacity=".45"/>
+  <stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="acento" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#5cc6f7"/><stop offset=".5" stop-color="#3db4ef"/>
+  <stop offset="1" stop-color="#93d6f8"/></linearGradient>
+<linearGradient id="boton" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#6fd0fb"/><stop offset="1" stop-color="#3db4ef"/></linearGradient>
+<linearGradient id="destello" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#93d6f8" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#93d6f8" stop-opacity=".22"/>
+  <stop offset="1" stop-color="#93d6f8" stop-opacity="0"/></linearGradient>
+<filter id="difuso" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<filter id="brillo" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2"/></filter>
+<clipPath id="marco"><rect width="900" height="150" rx="26"/></clipPath>
+<radialGradient id="hondo" cx=".25" cy=".1" r="1">
+  <stop offset="0" stop-color="#0a2236"/><stop offset=".7" stop-color="#06080b"/></radialGradient>
+<pattern id="rejilla" width="36" height="36" patternUnits="userSpaceOnUse">
+  <path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+<radialGradient id="mascaraG" cx=".5" cy=".35" r=".7">
+  <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<mask id="mascara"><rect width="900" height="150" fill="url(#mascaraG)"/></mask>
+<linearGradient id="rayaG" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#3db4ef" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#93d6f8" stop-opacity=".55"/>
+  <stop offset="1" stop-color="#3db4ef" stop-opacity="0"/></linearGradient><radialGradient id="luzG0"><stop offset="0" stop-color="#3db4ef"/><stop offset=".45" stop-color="#3db4ef" stop-opacity=".45"/><stop offset="1" stop-color="#3db4ef" stop-opacity="0"/></radialGradient><radialGradient id="luzG1"><stop offset="0" stop-color="#1f5fae"/><stop offset=".45" stop-color="#1f5fae" stop-opacity=".45"/><stop offset="1" stop-color="#1f5fae" stop-opacity="0"/></radialGradient><radialGradient id="luzG2"><stop offset="0" stop-color="#0d6aa3"/><stop offset=".45" stop-color="#0d6aa3" stop-opacity=".45"/><stop offset="1" stop-color="#0d6aa3" stop-opacity="0"/></radialGradient></defs><g clip-path="url(#marco)"><rect width="900" height="150" fill="url(#hondo)"/><circle class="luz1" cx="162" cy="30" r="180" fill="url(#luzG0)" opacity="0.27"/><circle class="luz2" cx="738" cy="52" r="202" fill="url(#luzG1)" opacity="0.39"/><circle class="luz3" cx="495" cy="142" r="169" fill="url(#luzG2)" opacity="0.35"/><rect width="900" height="150" fill="url(#rejilla)" mask="url(#mascara)"/><circle class="chispa" style="animation-delay:1.04s" cx="799" cy="97" r="1.3" fill="#93d6f8"/><circle class="chispa" style="animation-delay:2.29s" cx="567" cy="123" r="1.6" fill="#93d6f8"/><circle class="chispa" style="animation-delay:0.41s" cx="166" cy="65" r="1" fill="#93d6f8"/><circle class="chispa" style="animation-delay:1.65s" cx="294" cy="128" r="2" fill="#93d6f8"/><circle class="chispa" style="animation-delay:1.31s" cx="192" cy="90" r="1.6" fill="#93d6f8"/><circle class="chispa" style="animation-delay:1.62s" cx="100" cy="77" r="2" fill="#93d6f8"/><circle class="chispa" style="animation-delay:0.38s" cx="197" cy="45" r="1.3" fill="#93d6f8"/></g><rect x=".5" y=".5" width="899" height="149" rx="26" fill="none" stroke="#fff" stroke-opacity=".08"/><g class="entra" style="animation-delay:0.0s"><rect x="52" y="57" width="22" height="2" rx="1" fill="#3db4ef"/><text x="84.0" y="62.0" font-family="Outfit" font-weight="600" font-size="13" fill="#3db4ef" letter-spacing="0.16em" >PROYECTOS DESTACADOS</text></g><g class="entra" style="animation-delay:0.1s"><text x="50.0" y="110.0" font-family="Sora" font-weight="700" font-size="34" fill="#eef3f7" letter-spacing="-0.03em" >Lo que he </text><text x="213.8" y="110.0" font-family="Sora" font-weight="700" font-size="34" fill="url(#acento)" letter-spacing="-0.03em" >construido</text></g></svg>

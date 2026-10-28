@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="56" viewBox="0 0 172 56" role="img" aria-label="Escríbeme por correo"><title>Escríbeme por correo</title><style>@font-face{font-family:'Outfit';font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAATYABAAAAAACUQAAAR7AAEZmgAAAAAAAAAAAAAAAAAAAAAAAAAAGiQbgWYcKgZgP1NUQVQqAGQRCAqGEIR/ATYCJAMwCxoABCAFhAgHIAwHG4EHUVRRQsl+JJRtemklJGWkERCWZRx/eDb/+e/0f+0zJ3HpqSIWxKRyks6tg+sHkX9weP7lnp37+lsLMIviOE44CcsDzyjUFmjY/m1AJTGrE5fTnxV2PicF2BZPZIzFY9miNahAA0sD2rSmTcq7ztMp3qLeIKcdgOfZTiCAHgAAhGiQhMVxBNAq4cEuHX0S4h+LkU3E4wB8HDx3f2gT6gsDCMeoMVoViB4HkGSEqCmxfk3oFzhJVfUXarMG4pmWPMCQFQpFCgRjf9Pob4cTBcIIOBVCVAQML9IObwa0tBAACASdWgamBWIza+hefNrYBBTAXj4BQG83dIUnRTAUifGf+T3xOES/CN+vf5RoOECPoe88BhBppkYnQOpqudgzuBohAsAQALRVZgEAAwiAVELlfG4IkCgRzAZE7Zb5bQj7JRYD8BIYUhmv/7EP9/Je1gt7brMQTJ5OjSFhVz0AyAQkAX4E6ARAb4Ow8inoqtuFibppMXZMUiXmGzhPSeHxFp6rU+i4luIQsK+2eOK77+bTZe+9pzvpnXfg7beXFDom+TB+0mt30RF3vqo98eXb4Y5XqnjpCCZUL934Igp43PXEK8nUS1bfw28XaFsoOD9zgZb7Lr2zAul2eCeqE3TMdh3xKjp+/82ofE1WYVeFdUwYSCVfMEvnXluQ+7rvxHfftYzf8A5d9hAd8eCzL7745HBW+2Rudj088MwLrzwBb8+PjPu6Hjv+sZK9x+w92hZZiixm7T18L9o1ZaNWd2/+zfmenlGzt1Vurtvp6rRV/koDmreOCqaFU6NHhjdLFn40Gn7cLvFxBmMP5Gl6os2tO51d9l3ubumunjcbRqWSdrHkcLXRoD28pLCjVJI6580QNX3Rprad7q6W7XBLZ8euhrr19jiL6xx8Al3ZNzhKjWf+arWJTW+aS++f6OszrZhR89VRX7Gb3p9nGTBmn70n11TlGh61lXuGbc6h6goULuvqST1J1eXSuKOiwmdzj9Z4qt9YV6ie8AWGi3fLw7M3/ZRqacNnWvNAWrNB7oH+gZOac0wiJaeWHvrkoQabw9Y6Wlpdt2D+a2BgKijmfZGYXKw+/qLR1ukfweQh77SLRv1gRygASroPBoAG8Av7RwC0v1ARSs2YT6j7TS0I3wPw8Uff/A/wneqHQNPfBC/7BygxAEBwz0y3Atz6awNi/Lt+btI5U+iaPtTkZ9mTh2x/OPvDbrOMmtypJg+L9xQAwIQAehacGuvKjvQsjRABLRoA10PMJCbXM5l4rzMFdT5t5sVMhZpkM5QMkQSIoM/+C5EKiTlWqy3b9gmRBa2KEHm4eLiJJAD6Nx8UFREgixANCdmyi98ybW0uMK/CgpAwkUkXkyK2hdVwcgqSC5+PWuKwbMsGZ4ftZFsg367Dlk0RpdWM1U3pf2WbRKP8NshabFm3YoRfUNS6RSFuDm4uLrUCQhYF1XZj4ETbgTHtUqzyBFpFWkWBAetWpd8RNs3FoZqDR6XZrsFxw3Y3xHsFhrLYxTyy70/smDc/BQAAAA==) format('woff2');}
+
+.entra{animation:entra .9s cubic-bezier(.22,.8,.24,1) backwards}
+@keyframes entra{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+.luz1{animation:luz1 18s ease-in-out infinite alternate}
+.luz2{animation:luz2 22s ease-in-out infinite alternate}
+.luz3{animation:luz3 26s ease-in-out infinite alternate}
+@keyframes luz1{to{transform:translate(140px,40px)}}
+@keyframes luz2{to{transform:translate(-160px,-30px)}}
+@keyframes luz3{to{transform:translate(90px,-50px)}}
+.chispa{animation:chispa 4s ease-in-out infinite}
+@keyframes chispa{0%,100%{opacity:.15}50%{opacity:.9}}
+.raya{animation:raya 9s linear infinite}
+@keyframes raya{0%{transform:translateX(-400px);opacity:0}15%{opacity:.9}60%{opacity:.9}100%{transform:translateX(1300px);opacity:0}}
+.cruza{animation:cruza 7s cubic-bezier(.22,.8,.24,1) infinite}
+@keyframes cruza{0%,55%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.no-rm{display:none}}</style><defs>
+<linearGradient id="vidrio" x1="0" y1="0" x2="0.35" y2="1">
+  <stop offset="0" stop-color="#fff" stop-opacity=".10"/>
+  <stop offset="1" stop-color="#fff" stop-opacity=".025"/></linearGradient>
+<linearGradient id="vidrioFuerte" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#3db4ef" stop-opacity=".20"/>
+  <stop offset=".6" stop-color="#3db4ef" stop-opacity=".06"/>
+  <stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+<linearGradient id="reflejo" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#fff" stop-opacity=".45"/>
+  <stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="acento" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#5cc6f7"/><stop offset=".5" stop-color="#3db4ef"/>
+  <stop offset="1" stop-color="#93d6f8"/></linearGradient>
+<linearGradient id="boton" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#6fd0fb"/><stop offset="1" stop-color="#3db4ef"/></linearGradient>
+<linearGradient id="destello" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#93d6f8" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#93d6f8" stop-opacity=".22"/>
+  <stop offset="1" stop-color="#93d6f8" stop-opacity="0"/></linearGradient>
+<filter id="difuso" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<filter id="brillo" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2"/></filter><clipPath id="bc"><rect width="172" height="56" rx="14"/></clipPath></defs><rect width="172" height="56" rx="14" fill="url(#boton)"/><rect x="14" y="0" width="144" height="1.2" fill="#fff" opacity=".6"/><g clip-path="url(#bc)"><g class="cruza no-rm"><rect x="-200" y="-20" width="70" height="96" fill="#fff" opacity=".35" transform="skewX(-20)"/></g></g><g transform="translate(24 19)" fill="none" stroke="#0d1117" stroke-width="1.8" stroke-linejoin="round"><rect x="0" y="0" width="20" height="16" rx="3"/><path d="M1 2l9 7 9-7"/></g><text x="56.0" y="34.5" font-family="Outfit" font-weight="600" font-size="17" fill="#0d1117" >Escríbeme</text><path d="M146.852 28h12m-5-5 5 5-5 5" fill="none" stroke="#0d1117" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Actividad en GitHub"><title>Actividad en GitHub</title><style>@font-face{font-family:'Outfit';font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAPMABAAAAAAB2AAAANwAAEZmgAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgWQcKgZgP1NUQVQqAFwRCAqCXIIoATYCJAMgCxIABCAFhAgHIAwHGwIGIC4DbGMo9lSKUdyN49Cs0Rgqe2UxFsZi+P528fD/9/32Oe/+uXkSLM/i9C+vPOD/LQ0owMjLhpGzVgcKWtPZewqRSgkVESsCV9eqsjMkJKlaIGHJZz6991KIH2ZBf15fcinEYfbqySNHaG7+Nzb50M1/19imocdZuAZoWB7YxfEfe9Ev/2EBGjZ2F9z834xr4wSZllCUBpzIWLTGHWDvaIJEd6AJntAGP0tv2af0lniqpzgWw9Gj2zKI4wG4gAWAJOIQwVgxmYDzgZIaEHOzhvwghg2qERDXW7gfhEFAsBk+RsASTEIQNLk4ZBwwNnG4PIZbeV6tOjRvbhqZG1OzHOHdmmSmqxz32FOFIDiVJ5CD+tWLgSKolYsXVFfhxCKGQwybjhdaJLSPqS/FIdIgh4GWfaaBYOR8csDFLjFFFoWgDcHv8gEHd/LVdf//f3SfwYEA8ZIUOBFOxEewAYMDAbc7AwjDQBKIgVkCIKGDDYEEG4IMAZb4GK58Vg6FatQVTLj9HfWhQkUk6D+oGsvAEFgBjGAKmAHQAJJ0jmEr3AnCXl/wIOgKtAVbFrFo1uZfoIjd3a+m7fG5069A0npp4aT92rZNupWXNFVJm3wTO3KqKBITFE5aa4rmBO2gXm9fsYSvgq2B9uBAKuMGpt/s9rtqfrq8OXMMB5ty5w3rXYr5kpJyI12dc40TNdOq2NXVt9kijbSCcpO7oFDm1t5MUaX6Gvrd6iqY1Tmwzvp6NZr+fKe2r1djvzy6nlioXW9TTZeUqGY62+jieNLtCsXQeM3Ms9JwjhaOAu7GzX676ey96S71HgABsXtvlW2Wt8cafn2W9QOen9Z/+BjsO6Qqk89ZQ58BAs8hyZ8AUmIHQY/DvMZgPknlHUry31CkKUiSlHyS8ggBQ4WStuPSyKFAan7wAKgs5Y5lI+JFtrT527TDZEdLpCVXacwpJEJxDJw8YnGFXtCgUTiXfgMQChkJGSmKGgN6UZQjIX1cEIoKOMitVzeEwoqEDIBwBAqOAQgyiKAjJtbPJcNJXUS6QT7ixF0u0DhcKA/khxC4TndrJoH8Y6zWy8fFBvLqUaVXP5JXJ5yUiJSEhF4fXKd++nS+qAuhuhmO4NrINqUu9+uDwOD/QWgmIaIlIqPWugRU7197qzsPBKPKqrH4SPhzAwAA) format('woff2');}
+@font-face{font-family:'Sora';font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAREABAAAAAACCgAAAPpAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGiIbgVQcKgZgP1NUQVQqAGQRCAqFCIQWATYCJAMoCxYABCAFgxIHIAwHG4YGUZQwzgsgfiSYbneRQjj0RXhCRGc1GirsQj/LePhalr7fPZdmFGICMMWIMt2V8l4J0IPCKqEYbXxCLu4MTd0/b1e+OTrwn4X/7Mla0AFw6tSlSo0ecJUyhshNDyTOYITZkqRpgf6Y/8vpjYlHd8/v45kc6Int2ZjUy5ZdNtACLJp03KJ4ChRpwLmlbU0Vs4fRSsfdtKB/JQSGAJIswg+9S7fQq08I1ObIF7V2fecgpF09ZVRDmgrKf4G4ck6vhgQEQiXpFXol+8XgIi/xugCA8hNEyj+ToUdIqsXqm9xRJoETXDW6ZUOnl3S0d6lkgdo8nMcidwawu0q70htiSZ14ENjSXSSOy49aYAPbTypvgSUQU/71/1dUX1zgeAVpXHqGGaKF0CswBoEpom5fkBoJSAKiO70BkJAxRnQ9LMZOYIQM0ZihSat5MmqmUki8BTJ+tvxeSrlVVsrVcrGcRcC1QpRiOKjBGGAU8I1IgKrbSPJZCCRRJXpBFU4aGfcMGT80ZnwT21R1DHU+VE91DFxE2y/Q9Kvuqweu1R3Zg1p6fjb9ngeJxuDg4RhquLs1LHmHXbv7GzWTpaW5/5OWoMT+/s+jbW/deQatuRqvNY39nRbt3vRX3kJX1W1XqynLSHVu39TZJOEw8t5r1aZZoUKZp9X/kFd/401LpG7pf7b0LOdgzcFq6iDnIJt2sPQgrGfNn6qdVuFQw/YmHJhUHK6ZWLjQOuGNG1wb4XeT+bntZNfuwYKivcPufrKgcaFkKluzdeEq1bHW69tpPm0G3rO1Z87bufayTqpPwqXMBlFpmYLoyn7rebZkmInqL9UulNaWjnNq2mmiyu2V5Z/Xd07xFkPcu2QrJSSb7nAZP9SYyT/63wJjifFl0/zVPLeOtxjMLYy3mIwtaGN4vicO8jQjJTXxs4tOT9lSvaBEgKVUDdTFDYg41OzAu3Nf2AdZfZHITdNBExAZMyK7s3qpWZDN4w9R9UsMz+fkAZ56oKhaH4BAYuaF25YT6Uv/S8j5D/itunAbgN97/sx6yr95YSaEbgkEH0GYzxhQJkBm4IvU+YzhtFt/XoWfkf70nrbYbnc6Spt7xHPi032qEKgtEQMC9vW5JlpUfRgAhiD0GoAT/hRkC2yByiiPQJdJvvDdRkWUIBgSY5xuqUdpoKFloycjIWWE5MuVpwwySEoEGaChNwfppachJ7LACKljYiQ1gQ0OR2abkZZBOSEhCdmxz2QeZYGGipBBtI5ZB9MkLB6oGXGnXl1PQ2lRPkrupVihW49uTVk3DHDVSRIxw0QNA5l8BRGbJ9AZIXohSTRIlavyjb8I5f6z6gkA) format('woff2');}
+
+.entra{animation:entra .9s cubic-bezier(.22,.8,.24,1) backwards}
+@keyframes entra{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+.luz1{animation:luz1 18s ease-in-out infinite alternate}
+.luz2{animation:luz2 22s ease-in-out infinite alternate}
+.luz3{animation:luz3 26s ease-in-out infinite alternate}
+@keyframes luz1{to{transform:translate(140px,40px)}}
+@keyframes luz2{to{transform:translate(-160px,-30px)}}
+@keyframes luz3{to{transform:translate(90px,-50px)}}
+.chispa{animation:chispa 4s ease-in-out infinite}
+@keyframes chispa{0%,100%{opacity:.15}50%{opacity:.9}}
+.raya{animation:raya 9s linear infinite}
+@keyframes raya{0%{transform:translateX(-400px);opacity:0}15%{opacity:.9}60%{opacity:.9}100%{transform:translateX(1300px);opacity:0}}
+.cruza{animation:cruza 7s cubic-bezier(.22,.8,.24,1) infinite}
+@keyframes cruza{0%,55%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.no-rm{display:none}}</style><defs>
+<linearGradient id="vidrio" x1="0" y1="0" x2="0.35" y2="1">
+  <stop offset="0" stop-color="#fff" stop-opacity=".10"/>
+  <stop offset="1" stop-color="#fff" stop-opacity=".025"/></linearGradient>
+<linearGradient id="vidrioFuerte" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#3db4ef" stop-opacity=".20"/>
+  <stop offset=".6" stop-color="#3db4ef" stop-opacity=".06"/>
+  <stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+<linearGradient id="reflejo" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#fff" stop-opacity=".45"/>
+  <stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="acento" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#5cc6f7"/><stop offset=".5" stop-color="#3db4ef"/>
+  <stop offset="1" stop-color="#93d6f8"/></linearGradient>
+<linearGradient id="boton" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#6fd0fb"/><stop offset="1" stop-color="#3db4ef"/></linearGradient>
+<linearGradient id="destello" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#93d6f8" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#93d6f8" stop-opacity=".22"/>
+  <stop offset="1" stop-color="#93d6f8" stop-opacity="0"/></linearGradient>
+<filter id="difuso" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<filter id="brillo" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2"/></filter>
+<clipPath id="marco"><rect width="900" height="150" rx="26"/></clipPath>
+<radialGradient id="hondo" cx=".25" cy=".1" r="1">
+  <stop offset="0" stop-color="#0a2236"/><stop offset=".7" stop-color="#06080b"/></radialGradient>
+<pattern id="rejilla" width="36" height="36" patternUnits="userSpaceOnUse">
+  <path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+<radialGradient id="mascaraG" cx=".5" cy=".35" r=".7">
+  <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<mask id="mascara"><rect width="900" height="150" fill="url(#mascaraG)"/></mask>
+<linearGradient id="rayaG" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#3db4ef" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#93d6f8" stop-opacity=".55"/>
+  <stop offset="1" stop-color="#3db4ef" stop-opacity="0"/></linearGradient><radialGradient id="luzG0"><stop offset="0" stop-color="#3db4ef"/><stop offset=".45" stop-color="#3db4ef" stop-opacity=".45"/><stop offset="1" stop-color="#3db4ef" stop-opacity="0"/></radialGradient><radialGradient id="luzG1"><stop offset="0" stop-color="#1f5fae"/><stop offset=".45" stop-color="#1f5fae" stop-opacity=".45"/><stop offset="1" stop-color="#1f5fae" stop-opacity="0"/></radialGradient><radialGradient id="luzG2"><stop offset="0" stop-color="#0d6aa3"/><stop offset=".45" stop-color="#0d6aa3" stop-opacity=".45"/><stop offset="1" stop-color="#0d6aa3" stop-opacity="0"/></radialGradient></defs><g clip-path="url(#marco)"><rect width="900" height="150" fill="url(#hondo)"/><circle class="luz1" cx="162" cy="30" r="180" fill="url(#luzG0)" opacity="0.27"/><circle class="luz2" cx="738" cy="52" r="202" fill="url(#luzG1)" opacity="0.39"/><circle class="luz3" cx="495" cy="142" r="169" fill="url(#luzG2)" opacity="0.35"/><rect width="900" height="150" fill="url(#rejilla)" mask="url(#mascara)"/><circle class="chispa" style="animation-delay:1.04s" cx="799" cy="97" r="1.3" fill="#93d6f8"/><circle class="chispa" style="animation-delay:2.29s" cx="567" cy="123" r="1.6" fill="#93d6f8"/><circle class="chispa" style="animation-delay:0.41s" cx="166" cy="65" r="1" fill="#93d6f8"/><circle class="chispa" style="animation-delay:1.65s" cx="294" cy="128" r="2" fill="#93d6f8"/><circle class="chispa" style="animation-delay:1.31s" cx="192" cy="90" r="1.6" fill="#93d6f8"/><circle class="chispa" style="animation-delay:1.62s" cx="100" cy="77" r="2" fill="#93d6f8"/><circle class="chispa" style="animation-delay:0.38s" cx="197" cy="45" r="1.3" fill="#93d6f8"/></g><rect x=".5" y=".5" width="899" height="149" rx="26" fill="none" stroke="#fff" stroke-opacity=".08"/><g class="entra" style="animation-delay:0.0s"><rect x="52" y="57" width="22" height="2" rx="1" fill="#3db4ef"/><text x="84.0" y="62.0" font-family="Outfit" font-weight="600" font-size="13" fill="#3db4ef" letter-spacing="0.16em" >ACTIVIDAD</text></g><g class="entra" style="animation-delay:0.1s"><text x="50.0" y="110.0" font-family="Sora" font-weight="700" font-size="34" fill="#eef3f7" letter-spacing="-0.03em" >En </text><text x="96.4" y="110.0" font-family="Sora" font-weight="700" font-size="34" fill="url(#acento)" letter-spacing="-0.03em" >GitHub</text></g></svg>
