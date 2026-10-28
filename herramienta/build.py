@@ -20,8 +20,8 @@ FONT_FILES = {
 FONTS = {k: TTFont(os.path.join(ROOT, v)) for k, v in FONT_FILES.items()}
 
 # Paleta
-NEGRO, HONDO_BG = "#06080b", "#0a2236"
-CELESTE, CELESTE_CLARO, CELESTE_HONDO = "#3db4ef", "#93d6f8", "#0d6aa3"
+NEGRO, HONDO_BG = "#08060a", "#2a0b10"
+CELESTE, CELESTE_CLARO, CELESTE_HONDO = "#ef4444", "#fca5a5", "#b91c1c"  # acento rojo
 TINTA, PLOMO, NIEBLA = "#0d1117", "#4a5562", "#f3f6f9"
 TEXTO_CLARO, TEXTO_SUAVE = "#eef3f7", "#b4c0cc"
 CURVA = "cubic-bezier(.22,.8,.24,1)"
@@ -122,10 +122,10 @@ def common_defs(d):
   <stop offset=".5" stop-color="#fff" stop-opacity=".45"/>
   <stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 <linearGradient id="acento" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#5cc6f7"/><stop offset=".5" stop-color="{CELESTE}"/>
+  <stop offset="0" stop-color="#f87171"/><stop offset=".5" stop-color="{CELESTE}"/>
   <stop offset="1" stop-color="{CELESTE_CLARO}"/></linearGradient>
 <linearGradient id="boton" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#6fd0fb"/><stop offset="1" stop-color="{CELESTE}"/></linearGradient>
+  <stop offset="0" stop-color="#ef4444"/><stop offset="1" stop-color="#b91c1c"/></linearGradient>
 <linearGradient id="destello" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="{CELESTE_CLARO}" stop-opacity="0"/>
   <stop offset=".5" stop-color="{CELESTE_CLARO}" stop-opacity=".22"/>
@@ -167,7 +167,7 @@ def fondo_vivo(d, w, h, rx=28, seed=1, intensidad=1.0, particulas=12, rayas=True
   <stop offset="1" stop-color="{CELESTE}" stop-opacity="0"/></linearGradient>""")
     k = intensidad
     # Luces difusas con degradados radiales (mucho más ligeras que un filtro de desenfoque animado)
-    for i, col in enumerate([CELESTE, "#1f5fae", CELESTE_HONDO]):
+    for i, col in enumerate([CELESTE, "#7f1d1d", CELESTE_HONDO]):
         d.defs.append(f'<radialGradient id="luzG{i}"><stop offset="0" stop-color="{col}"/>'
                       f'<stop offset=".45" stop-color="{col}" stop-opacity=".45"/>'
                       f'<stop offset="1" stop-color="{col}" stop-opacity="0"/></radialGradient>')
@@ -198,7 +198,7 @@ def vidrio(d, x, y, w, h, rx=20, fuerte=False, destello=True, delay=0.0, cid=Non
     stroke = f'stroke="{CELESTE}" stroke-opacity=".45"' if fuerte else 'stroke="#fff" stroke-opacity=".14"'
     fill = "url(#vidrioFuerte)" if fuerte else "url(#vidrio)"
     s = [f'<g class="entra" style="animation-delay:{delay}s">',
-         f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{rx}" fill="#0b121a" fill-opacity=".45"/>',
+         f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{rx}" fill="#140b0e" fill-opacity=".45"/>',
          f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{rx}" fill="{fill}" {stroke}/>',
          f'<rect x="{x+rx}" y="{y}" width="{w-2*rx}" height="1" fill="url(#reflejo)"/>']
     if destello:
@@ -348,10 +348,10 @@ def botones():
           f'<g clip-path="url(#bc)"><g class="cruza no-rm"><rect x="-200" y="-20" width="70" height="{H+40}" '
           f'fill="#fff" opacity=".35" transform="skewX(-20)"/></g></g>')
     # sobre
-    d.raw(f'<g transform="translate(24 19)" fill="none" stroke="{TINTA}" stroke-width="1.8" stroke-linejoin="round">'
+    d.raw(f'<g transform="translate(24 19)" fill="none" stroke="#fff" stroke-width="1.8" stroke-linejoin="round">'
           f'<rect x="0" y="0" width="20" height="16" rx="3"/><path d="M1 2l9 7 9-7"/></g>')
-    d.t(56, 34.5, txt, "Outfit", 600, 17, TINTA)
-    d.raw(f'<path d="M{56+tw+10} 28h12m-5-5 5 5-5 5" fill="none" stroke="{TINTA}" stroke-width="2" '
+    d.t(56, 34.5, txt, "Outfit", 600, 17, "#fff")
+    d.raw(f'<path d="M{56+tw+10} 28h12m-5-5 5 5-5 5" fill="none" stroke="#fff" stroke-width="2" '
           f'stroke-linecap="round" stroke-linejoin="round"/>')
     d.save("boton-correo.svg")
 
@@ -437,7 +437,7 @@ def tecnologias():
     common_defs(d)
     # banda grafito translúcida
     fondo_vivo(d, W, H, rx=30, seed=11, intensidad=.55, particulas=8, rayas=False)
-    d.raw(f'<rect width="{W}" height="{H}" rx="30" fill="#1a2028" fill-opacity=".55"/>')
+    d.raw(f'<rect width="{W}" height="{H}" rx="30" fill="#221619" fill-opacity=".55"/>')
     eyebrow(d, 52, 66, "Tecnologías")
     titulo(d, 50, 116, [("Mi caja de ", False), ("herramientas", True)], size=34)
     for gi, (nombre, gy, pos) in enumerate(layout):
@@ -496,10 +496,10 @@ def proyecto(num, nombre, desc, stack, archivo):
     bx, by = cx + cw - bw - 30, cy + 34
     d.raw(f'<g class="entra" style="animation-delay:.2s"><rect x="{bx:.1f}" y="{by}" width="{bw:.1f}" height="44" rx="13" '
           f'fill="url(#boton)"/><rect x="{bx+13:.1f}" y="{by}" width="{bw-26:.1f}" height="1" fill="#fff" opacity=".6"/>')
-    d.t(bx + 20, by + 27.5, bt, "Outfit", 600, 15, TINTA)
+    d.t(bx + 20, by + 27.5, bt, "Outfit", 600, 15, "#fff")
     tx = bx + 20 + width(bt, "Outfit", 600, 15) + 9
     d.raw(f'<path d="M{tx:.1f} 0h11m-4.5-4.5 4.5 4.5-4.5 4.5" transform="translate(0 {by+22})" fill="none" '
-          f'stroke="{TINTA}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>')
+          f'stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>')
     d.save(archivo)
 
 

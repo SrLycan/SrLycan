@@ -33,8 +33,8 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SrLycan&show_icons=true&hide_rank=true&hide=stars,issues&include_all_commits=true&bg_color=0b1118&border_color=1e2a36&border_radius=22&title_color=3db4ef&icon_color=3db4ef&text_color=b4c0cc&custom_title=Actividad+en+GitHub" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLycan&layout=compact&langs_count=6&bg_color=0b1118&border_color=1e2a36&border_radius=22&title_color=3db4ef&text_color=b4c0cc&custom_title=Lenguajes+m%C3%A1s+usados" alt="Lenguajes más usados" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SrLycan&show_icons=true&hide_rank=true&hide=stars,issues&include_all_commits=true&bg_color=120a0d&border_color=3a1a20&border_radius=22&title_color=ef4444&icon_color=ef4444&text_color=b4c0cc&custom_title=Actividad+en+GitHub" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLycan&layout=compact&langs_count=6&bg_color=120a0d&border_color=3a1a20&border_radius=22&title_color=ef4444&text_color=b4c0cc&custom_title=Lenguajes+m%C3%A1s+usados" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
